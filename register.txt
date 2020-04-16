@@ -1,1 +1,2 @@
 do register
+release fix register bug
